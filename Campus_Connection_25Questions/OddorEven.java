@@ -8,5 +8,6 @@ public class OddorEven{
         if(Number==0) System.out.println(Number +" is Zero...");
         else if(Number%2==0) System.out.print(Number+" is an Even Number...");
         else System.out.println(Number +" is an Odd Number...");
+        sc.close();
     }
 }

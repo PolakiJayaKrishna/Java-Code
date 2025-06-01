@@ -13,6 +13,6 @@ class TimeBasedGreeting{
             System.out.print("Good Evening..");
         }else{
             System.out.print("Invalid input..!");
-        }
+        }sc.close();
     } 
 }

@@ -15,6 +15,6 @@ class  ReverseProgressivePattern{
             }
             Start = End+1;
             System.out.println();
-        }
+        }sc.close();
     }
 }

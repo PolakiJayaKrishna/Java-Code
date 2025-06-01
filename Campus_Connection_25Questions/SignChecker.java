@@ -7,6 +7,6 @@ public class SignChecker {
         int Number = sc.nextInt();
         if(Number>0) System.out.println("Positive Number...");
         else if(Number<0) System.out.println("Negative Number...");
-        else System.out.println("Zero...");
+        else System.out.println("Zero...");sc.close();
     }
 }

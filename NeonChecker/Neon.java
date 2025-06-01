@@ -16,6 +16,6 @@ public class Neon {
             System.out.println("Neon Number");
         } else {
             System.out.println("Not a Neon Number");
-        }
+        }sc.close();
     }
 }

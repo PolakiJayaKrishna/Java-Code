@@ -8,5 +8,6 @@ class EligibleToVote{
         if(Age<=0) System.out.println("Kindly Enter Valid Age..!");
         else if(Age>=18) System.out.println("You are Eligible to Vote...");
         else System.out.println("You are not Eligible to Vote...");
+        sc.close();
     }
 }

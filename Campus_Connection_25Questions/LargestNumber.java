@@ -9,5 +9,6 @@ public class LargestNumber{
         if(A<B) System.out.println(A +" is Lowest Number and "+B +" is Largest Number");
         else if(A>B) System.out.println(A +" A is Largest Number and "+B + "is Lowest Number");
         else System.out.println(A + " " + B + "Equals Numbers....");
+        sc.close();
     }
 }

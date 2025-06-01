@@ -18,6 +18,6 @@ public class Spy {
             System.out.println(copy + " Spy Number");
         } else {
             System.out.println(copy + " Not a Spy Number");
-        }
+        }sc.close();
     }
 }

@@ -14,6 +14,6 @@ public class VowelChecker {
             } else {
                 System.out.print("Invalid input. Please enter an alphabetic character.");
             }
-        }
+        }sc.close();
     }
 }
