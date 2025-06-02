@@ -1,5 +1,6 @@
 package Array;
 import java.util.Scanner;
+import java.util.Arrays;
 class Array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -9,10 +10,8 @@ class Array {
         for (int i = 0; i < size; i++) {
             arr[i] = sc.nextInt();
         }
-        System.out.print("Array is: ");
-        for (int i = 0; i < size; i++) {
-            System.out.print(arr[i] +" ");
-        }
+        System.out.print("Array is: " + Arrays.toString(arr));
+        
         System.out.println();
         System.out.print("Enter an Element to find in array: ");
         int find = sc.nextInt();
