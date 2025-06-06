@@ -12,7 +12,7 @@ public class LargestNumberAmongThree {
         } else {
             if (a > b && a > c) {
                 System.out.print(a + " Bigger...value !");
-            } else if (b > a && b > a) {
+            } else if (b > a && b > c) {
 
                 System.out.print(b + " Bigger...value !");
 
