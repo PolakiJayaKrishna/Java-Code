@@ -1,7 +1,7 @@
 package Star_Pattern;
 import java.util.Scanner;
 
-class Jk{
+class NumberHalfPyramid{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a Number: ");
