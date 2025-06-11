@@ -44,9 +44,4 @@ class Student {
         obj.display();
         System.out.println("------------------");
     }
-
-    public static String getTotalPresent() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'getTotalPresent'");
-    }
 }
