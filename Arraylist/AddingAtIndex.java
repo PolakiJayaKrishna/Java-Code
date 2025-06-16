@@ -10,8 +10,9 @@ public class AddingAtIndex {
         list.add(2);
         list.add(3);
         System.out.println("After Adding Elements in Arraylist: " + list);
-        list.add(2,10);
-        list.add(0, 10);
-        System.out.println("Elements after adding at Index: " + list);
+        list.set(0, 0);
+        list.set(1, 1);
+        list.set(2, 2);
+        System.out.println("After Changing Values using Set Method: " + list);
     }
 }
