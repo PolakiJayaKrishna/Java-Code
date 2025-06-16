@@ -25,6 +25,6 @@ public class AddingElements {
         int remove = sc.nextInt();
         list.remove(remove);
         System.out.println("After remove list is: " + list);
-        
+        sc.close();
     }
 }
