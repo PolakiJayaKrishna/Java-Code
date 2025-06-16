@@ -1,3 +1,5 @@
+// Merges two arrays by multiplying their elements at matching indices and then adding the rest.
+
 package Array;
 
 import java.util.Scanner;
