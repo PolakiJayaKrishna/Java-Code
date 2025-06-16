@@ -17,5 +17,6 @@ public class Sorting {
 
         Collections.sort(list);
         System.out.println("Sorted ArrayList is: " + list);
+        sc.close();
     }
 }
