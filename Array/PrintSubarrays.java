@@ -15,6 +15,5 @@ public class PrintSubarrays {
             }
             System.out.println();
         }
-
     }
 }
