@@ -1,4 +1,4 @@
-package Array.JaggedArray;
+package JaggedArray;
 
 public class jagged {
     public static void main(String[] args) {
