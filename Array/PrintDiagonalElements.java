@@ -1,4 +1,4 @@
-package Array;
+
 
 //Given a 2D matrix, print only the diagonal elements.
 public class PrintDiagonalElements {

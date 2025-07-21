@@ -1,4 +1,4 @@
-package Array;
+
 
 //Check if an array is palindromic (e.g., {1, 2, 3, 2, 1}).
 

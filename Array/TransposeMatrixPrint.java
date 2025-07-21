@@ -1,5 +1,4 @@
 // Transpose a square matrix (i.e., rows become columns and vice versa).
-package Array;
 
 public class TransposeMatrixPrint {
 

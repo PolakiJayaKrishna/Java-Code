@@ -1,5 +1,3 @@
-package Array;
-
 public class MatrixSum3x3 {
     // Print the sum of all elements in a 3x3 matrix.
     public static void main(String[] args) {
