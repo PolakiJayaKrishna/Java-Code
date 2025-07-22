@@ -10,7 +10,7 @@ public class MaxSubarraySumKadane {
                 currentSum = 0;
             maxSum = Math.max(currentSum , maxSum);
         }
-        System.out.println("Cuurent Sum: " + currentSum);
+        System.out.println("Current Sum: " + currentSum);
         System.out.println("Maximum Sum: " + maxSum);
     }
 }
