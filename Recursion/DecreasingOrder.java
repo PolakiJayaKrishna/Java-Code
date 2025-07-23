@@ -1,4 +1,4 @@
-package Recurrsion;
+package Recursion;
 
 public class DecreasingOrder {
     public static void main(String[] args) {
