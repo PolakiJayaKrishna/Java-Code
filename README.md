@@ -10,7 +10,7 @@ This repository documents my learning journey as I explore and practice fundamen
 
 This repository is organized into packages based on topic. Here is an overview of what you'll find in each section:
 
-* **[/dsa](./DSA)**: Solutions to common Data Structures and Algorithms problems using `LinkedList`, `Stack`, `Queue`, `HashMap`, `HashSet`, and `PriorityQueue`.
+* **[/DSA](./DSA)**: Solutions to common Data Structures and Algorithms problems using `LinkedList`, `Stack`, `Queue`, `HashMap`, `HashSet`, and `PriorityQueue`.
 * **[/Array](./Array)**: Implementations of various array operations like searching, sorting, matrix manipulation, and problems like "Trapping Rainwater" and "Kadane's Algorithm."
 * **[/String](./String)**: Programs for common string manipulations, including title case conversion, string compression, and finding the most frequent word.
 * **[/Sorting](./Sorting)**: Implementations of fundamental sorting algorithms like Bubble Sort, Selection Sort, Insertion Sort, and Merge Sort.
@@ -26,7 +26,7 @@ This repository is organized into packages based on topic. Here is an overview o
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/polakijayakrishna/java-code.git
     ```
-2.  Navigate to the relevant folder.
-3.  Compile and run the desired Java file.
+3.  Navigate to the relevant folder.
+4.  Compile and run the desired Java file.
